@@ -4,7 +4,7 @@
 	<parent>
 		<groupId>querqy</groupId>
 		<artifactId>querqy-parent</artifactId>
-		<version>1.0.8-MM</version>
+		<version>1.0.9-MM-SNAPSHOT</version>
 	</parent>
 	<artifactId>querqy-lucene</artifactId>
 
@@ -56,8 +56,4 @@
 		</dependency>
 
 	</dependencies>
-
-  <scm>
-    <tag>querqy-parent-1.0.8-MM</tag>
-  </scm>
 </project>
