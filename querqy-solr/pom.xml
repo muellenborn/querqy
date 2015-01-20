@@ -4,7 +4,7 @@
 	<parent>
 		<groupId>querqy</groupId>
 		<artifactId>querqy-parent</artifactId>
-		<version>1.0.8-SNAPSHOT</version>
+		<version>1.0.8-MM</version>
 	</parent>
 
 	<artifactId>querqy-solr</artifactId>
@@ -86,4 +86,8 @@
 		</plugins>
 	</build>
 
+
+  <scm>
+    <tag>querqy-parent-1.0.8-MM</tag>
+  </scm>
 </project>
